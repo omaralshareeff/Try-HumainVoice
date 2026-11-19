@@ -1,0 +1,7 @@
+.venv/
+.env
+recording.wav
+recording.vtt
+speech.wav
+__pycache__/
+*.pyc
